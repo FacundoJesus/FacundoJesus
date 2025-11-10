@@ -8,10 +8,10 @@
 ¡Hola! Soy **Facundo**, un apasionado desarrollador con enfoque en el ecosistema **.NET** y la programación en general.  
 Mi camino en la tecnología está guiado por el aprendizaje continuo, la colaboración y el deseo de crear soluciones limpias, eficientes y sostenibles.
 
-🎓 Actualmente estudiando la Tecnicatura Universitaria en Programación en la Universidad Tecnológica de Paraná, Entre Ríos.
-💬 Me gusta participar en proyectos colaborativos, revisar código y compartir conocimientos.  
-📚 Creo firmemente que **el conocimiento se multiplica cuando se comparte**.  
-🚀 Actualmente estoy mejorando mis habilidades en **arquitectura de software** y **sistemas distribuidos**.
+>🎓 Actualmente estudiando la Tecnicatura Universitaria en Programación en la Universidad Tecnológica de Paraná, Entre Ríos.
+>💬 Me gusta participar en proyectos colaborativos, revisar código y compartir conocimientos.  
+>📚 Creo firmemente que **el conocimiento se multiplica cuando se comparte**.  
+>🚀 Actualmente estoy mejorando mis habilidades en **arquitectura de software** y **sistemas distribuidos**.
 
 ---
 
@@ -58,7 +58,7 @@ Mi camino en la tecnología está guiado por el aprendizaje continuo, la colabor
 
 ### 💡 Frase favorita
 > “El conocimiento no vale nada si no se comparte.”
-
+> “Todos los días se aprende algo nuevo.”
 ---
 
 ⭐ **Gracias por visitar mi perfil.**  

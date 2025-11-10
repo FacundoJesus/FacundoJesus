@@ -57,7 +57,7 @@ Mi camino en la tecnología está guiado por el aprendizaje continuo, la colabor
 ---
 
 ### 💡 Frase favorita
-> “El conocimiento no vale nada si no se comparte.”
+> “El conocimiento no vale nada si no se comparte.”  
 > “Todos los días se aprende algo nuevo.”
 ---
 

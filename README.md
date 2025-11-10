@@ -7,7 +7,7 @@
 ### 🧠 Sobre mí
 ¡Hola! Soy **Facundo**, un apasionado desarrollador con enfoque en el ecosistema **.NET** y la programación en general.  
 Mi camino en la tecnología está guiado por el aprendizaje continuo, la colaboración y el deseo de crear soluciones limpias, eficientes y sostenibles.
-Actualmente estudiando la Tecnicatura Universitaria en Programación en la Universidad Tecnológica de Parana,
+Actualmente estudiando la Tecnicatura Universitaria en Programación en la Universidad Tecnológica de Parana.
 💬 Me gusta participar en proyectos colaborativos, revisar código y compartir conocimientos.  
 📚 Creo firmemente que **el conocimiento se multiplica cuando se comparte**.  
 🚀 Actualmente estoy mejorando mis habilidades en **arquitectura de software** y **sistemas distribuidos**.
@@ -16,13 +16,13 @@ Actualmente estudiando la Tecnicatura Universitaria en Programación en la Unive
 
 ### 🌐 Contacto
 <p align="left">
-  <a href="[https://www.linkedin.com/in/TU-LINKEDIN](https://www.linkedin.com/in/facundo-citera-931442239/)" target="_blank">
+  <a href="https://www.linkedin.com/in/facundo-citera-931442239/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tuemail@ejemplo.com">
+  <a href="mailto:facundojesus10@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://tuwebpersonal.com" target="_blank">
+  <a href="https://fcitera.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>

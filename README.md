@@ -7,7 +7,7 @@
 ### 🧠 Sobre mí
 ¡Hola! Soy **Facundo**, un apasionado desarrollador con enfoque en el ecosistema **.NET** y la programación en general.  
 Mi camino en la tecnología está guiado por el aprendizaje continuo, la colaboración y el deseo de crear soluciones limpias, eficientes y sostenibles.
-
+Actualmente estudiando la Tecnicatura Universitaria en Programación en la Universidad Tecnológica de Parana,
 💬 Me gusta participar en proyectos colaborativos, revisar código y compartir conocimientos.  
 📚 Creo firmemente que **el conocimiento se multiplica cuando se comparte**.  
 🚀 Actualmente estoy mejorando mis habilidades en **arquitectura de software** y **sistemas distribuidos**.
@@ -16,7 +16,7 @@ Mi camino en la tecnología está guiado por el aprendizaje continuo, la colabor
 
 ### 🌐 Contacto
 <p align="left">
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN" target="_blank">
+  <a href="[https://www.linkedin.com/in/TU-LINKEDIN](https://www.linkedin.com/in/facundo-citera-931442239/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:tuemail@ejemplo.com">

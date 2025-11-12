@@ -54,7 +54,7 @@ Mi camino en la tecnología está guiado por el aprendizaje continuo, la colabor
 
 ---
 
-# 🛠️ Herramientas
+## 🛠️ Herramientas
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />

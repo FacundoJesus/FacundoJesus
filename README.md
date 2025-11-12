@@ -89,8 +89,8 @@ Mi camino en la tecnología está guiado por el aprendizaje continuo, la colabor
 
 ### 💡 Frase favorita
 > “El conocimiento no vale nada si no se comparte.”  
-> “Todos los días se aprende algo nuevo.”
-> "El lenguaje es solo una herramienta; lo que realmente importa es la lógica que da vida a las ideas."
+> “Todos los días se aprende algo nuevo.”  
+> "El lenguaje es solo una herramienta, lo que realmente importa es la lógica que da vida a las ideas."
 
 ---
 

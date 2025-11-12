@@ -60,6 +60,8 @@ Mi camino en la tecnología está guiado por el aprendizaje continuo, la colabor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45" alt="Visual Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="45" height="45" alt="Swagger" />
 </p>
 
 ---

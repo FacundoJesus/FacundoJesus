@@ -5,12 +5,13 @@
 ---
 
 ### 🧠 Sobre mí
-¡Hola! Soy **Facundo**, un apasionado desarrollador con enfoque en el ecosistema **.NET** y la programación en general.  
-Mi camino en la tecnología está guiado por el aprendizaje continuo, la colaboración y el deseo de crear soluciones limpias, eficientes y sostenibles.
-
-🎓 Actualmente **estudiando** la Tecnicatura Universitaria en Programación en la **Universidad Tecnológica Nacional - Paraná, Entre Ríos**.  
-💬 Me gusta participar en proyectos colaborativos, revisar código y compartir conocimientos.  
-📚 Creo firmemente que **el conocimiento se multiplica cuando se comparte**.  
+Mi camino en la programación comenzó de forma autodidacta, explorando distintos cursos en diversas plataformas con
+curiosidad y entusiasmo.
+En 2025, ingresé a la Universidad Tecnológica Nacional de Paraná (Entre Ríos) con el objetivo de profundizar y estructurar
+mis conocimientos.Actualmente, me encuentro en búsqueda de mi primera oportunidad laboral en el área IT, donde
+pueda aplicar lo aprendido, seguir creciendo profesionalmente y aportar valor a un equipo.
+Me interesa especialmente el desarrollo con C# y Java, y mi objetivo es continuar perfeccionándome en estas tecnologías
+mientras enfrento nuevos desafíos.
 
 ---
 

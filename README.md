@@ -72,16 +72,6 @@ mientras enfrento nuevos desafíos.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <!-- Gráfico de lenguajes (solo públicos) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoJesus&layout=compact&langs_count=6&theme=tokyonight&hide=python,jupyter%20notebook" />
-  <br/>
-  <!-- Estadísticas generales (incluye repos privados) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=FacundoJesus&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
----
 
 ### 💡 Frase favorita
 > “El conocimiento no vale nada si no se comparte.”  

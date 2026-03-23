@@ -81,5 +81,4 @@ mientras enfrento nuevos desafíos.
 ---
 
 ⭐ **Gracias por visitar mi perfil.**  
-🛠️ _Hecho con pasión por la arquitectura y el código limpio._
 

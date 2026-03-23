@@ -16,7 +16,7 @@ Mi camino en la tecnología está guiado por el aprendizaje continuo, la colabor
 
 ### 🌐 Contacto
 <p align="left">
-  <a href="https://www.linkedin.com/in/facundo-citera-931442239/" target="_blank">
+  <a href="https://www.linkedin.com/in/facundocitera/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn%20-%20Facundo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:facundojesus10@hotmail.com">
@@ -48,15 +48,12 @@ Mi camino en la tecnología está guiado por el aprendizaje continuo, la colabor
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring" />
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask" />
 </p>
 
 ---
 
 ## 🛠️ Herramientas
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45" alt="Visual Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />

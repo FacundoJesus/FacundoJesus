@@ -23,7 +23,7 @@ mientras enfrento nuevos desafíos.
   <a href="mailto:facundojesus10@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail%20-%20Facundo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://fcitera.netlify.app/" target="_blank">
+  <a href="https://fcitera-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%20-%20Facundo-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>

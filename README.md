@@ -11,7 +11,7 @@ En 2025, ingresé a la Universidad Tecnológica Nacional de Paraná (Entre Ríos
 mis conocimientos.Actualmente, me encuentro en búsqueda de mi primera oportunidad laboral en el área IT, donde
 pueda aplicar lo aprendido, seguir creciendo profesionalmente y aportar valor a un equipo.
 Me interesa especialmente el desarrollo con C# y Java, y mi objetivo es continuar perfeccionándome en estas tecnologías
-mientras enfrento nuevos desafíos.
+mientras enfrento nuevos desafíos..
 
 ---
 

@@ -5,13 +5,13 @@
 ---
 
 ### 🧠 Sobre mí
-Mi camino en la programación comenzó de forma autodidacta, explorando distintos cursos en diversas plataformas con
-curiosidad y entusiasmo.
-En 2025, ingresé a la Universidad Tecnológica Nacional de Paraná (Entre Ríos) con el objetivo de profundizar y estructurar
-mis conocimientos.Actualmente, me encuentro en búsqueda de mi primera oportunidad laboral en el área IT, donde
-pueda aplicar lo aprendido, seguir creciendo profesionalmente y aportar valor a un equipo.
-Me interesa especialmente el desarrollo con C# y Java, y mi objetivo es continuar perfeccionándome en estas tecnologías
-mientras enfrento nuevos desafíos..
+Mi camino en la programación comenzó de forma autodidacta, explorando distintos cursos y tecnologías con curiosidad y
+compromiso.
+En 2025 ingresé a la Universidad Tecnológica Nacional (UTN) de Paraná con el objetivo de profundizar y estructurar mis
+conocimientos en desarrollo de software. Actualmente me encuentro enfocado en el desarrollo backend, utilizando tecnologías
+como C# con .NET y Java con Spring Boot, con experiencia en la construcción de APIs REST y manejo de bases de datos.
+Estoy en búsqueda de mi primera oportunidad laboral en el área IT, donde pueda aplicar lo aprendido, continuar desarrollándome
+profesionalmente y aportar valor a un equipo.
 
 ---
 
@@ -47,7 +47,6 @@ mientras enfrento nuevos desafíos..
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET Core" />
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring" />
-  <!-- Python -->
 </p>
 
 ---

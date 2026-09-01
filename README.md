@@ -71,7 +71,6 @@ profesionalmente y aportar valor a un equipo.
 
 ---
 
-
 ### 💡 Frase favorita
 > “El conocimiento no vale nada si no se comparte.”  
 > “Todos los días se aprende algo nuevo.”  

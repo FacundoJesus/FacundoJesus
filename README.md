@@ -1,6 +1,6 @@
 <!-- Encabezado con saludo -->
 <h1 align="center">👋 ¡Hola! Soy Facundo</h1>
-<h3 align="center">Desarrollador .NET | Programación</h3>
+<h3 align="center">Desarrollador Java | Programación</h3>
 
 ---
 

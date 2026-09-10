@@ -43,10 +43,10 @@ profesionalmente y aportar valor a un equipo.
 
 ## 🧩 Frameworks
 <p align="center">
-  <!-- C# -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET Core" />
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring" />
+  <!-- C# -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET Core" />
 </p>
 
 ---
